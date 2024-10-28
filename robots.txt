@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukimiuce.github.io/sitemap_index.ukimiuce
